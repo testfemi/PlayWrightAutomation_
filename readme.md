@@ -27,7 +27,7 @@ To get your project up and running, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/your-project.git
+   git clone  https://github.com/yourusername/your-project.git
 
    ```
 
